@@ -11,7 +11,178 @@
     
     <url>
         <loc>https://xaoxuu.com/about/</loc>
-        <lastmod>2021-02-22T05:36:59.578Z</lastmod>
+        <lastmod>2021-02-25T02:54:53.041Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/heartmate/</loc>
+        <lastmod>2021-02-25T02:53:11.633Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/vim-cn.sh/</loc>
+        <lastmod>2021-02-24T01:59:50.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/volantis/</loc>
+        <lastmod>2021-02-24T01:59:50.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/stellar/</loc>
+        <lastmod>2021-02-24T01:59:50.861Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/valuex/</loc>
+        <lastmod>2021-02-24T01:59:50.861Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/prohud/</loc>
+        <lastmod>2021-02-24T01:59:50.860Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/resume/</loc>
+        <lastmod>2021-02-24T01:59:50.860Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/hexo.sh/</loc>
+        <lastmod>2021-02-24T01:59:50.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/nexus/</loc>
+        <lastmod>2021-02-24T01:59:50.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/inspire/</loc>
+        <lastmod>2021-02-24T01:59:50.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/axkit/</loc>
+        <lastmod>2021-02-24T01:59:50.857Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/git/</loc>
+        <lastmod>2021-02-24T01:59:50.857Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/smartlamp/</loc>
+        <lastmod>2021-02-23T03:24:01.728Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/git/install-and-config/</loc>
+        <lastmod>2021-02-23T03:24:01.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/git/usage/</loc>
+        <lastmod>2021-02-23T03:24:01.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/git/github/</loc>
+        <lastmod>2021-02-23T03:24:01.724Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/git/git-server/</loc>
+        <lastmod>2021-02-23T03:24:01.723Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/categories/hexo-themes/</loc>
+        <lastmod>2021-02-23T03:24:01.723Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://xaoxuu.com/wiki/categories/app/</loc>
+        <lastmod>2021-02-23T03:24:01.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
     </url>
@@ -73,52 +244,7 @@
     
     
     <url>
-        <loc>https://xaoxuu.com/wiki/stellar/</loc>
-        <lastmod>2021-02-22T02:30:50.566Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/heartmate/</loc>
-        <lastmod>2021-02-22T02:30:50.565Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/prohud/</loc>
-        <lastmod>2021-02-22T02:30:50.565Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/categories/app/</loc>
-        <lastmod>2021-02-22T02:30:50.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://xaoxuu.com/wiki/categories/ios/</loc>
-        <lastmod>2021-02-22T02:30:50.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/categories/hexo-themes/</loc>
         <lastmod>2021-02-22T02:30:50.564Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
@@ -129,42 +255,6 @@
     <url>
         <loc>https://xaoxuu.com/wiki/categories/shell-scripts/</loc>
         <lastmod>2021-02-22T02:30:50.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/hexo.sh/</loc>
-        <lastmod>2021-02-19T10:20:07.351Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/volantis/</loc>
-        <lastmod>2021-02-19T06:46:10.786Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/axkit/</loc>
-        <lastmod>2021-02-18T06:58:43.734Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/inspire/</loc>
-        <lastmod>2021-02-18T06:58:40.515Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
     </url>
@@ -210,24 +300,6 @@
     <url>
         <loc>https://xaoxuu.com/wiki/prohud/toast/</loc>
         <lastmod>2021-02-18T06:58:17.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/vim-cn.sh/</loc>
-        <lastmod>2021-02-18T02:20:05.967Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://xaoxuu.com/wiki/valuex/</loc>
-        <lastmod>2021-02-18T02:20:05.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
     </url>
