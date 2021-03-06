@@ -10,8 +10,8 @@
     
     
     <url>
-        <loc>https://xaoxuu.com/wiki/stellar/</loc>
-        <lastmod>2021-03-06T14:52:13.064Z</lastmod>
+        <loc>https://xaoxuu.com/wiki/stellar/tag-plugins/</loc>
+        <lastmod>2021-03-06T15:00:33.319Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
     </url>
@@ -19,8 +19,8 @@
     
     
     <url>
-        <loc>https://xaoxuu.com/wiki/stellar/tag-plugins/</loc>
-        <lastmod>2021-03-05T16:15:08.733Z</lastmod>
+        <loc>https://xaoxuu.com/wiki/stellar/</loc>
+        <lastmod>2021-03-06T14:52:13.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
     </url>
@@ -181,7 +181,7 @@
     
     
     <url>
-        <loc>https://xaoxuu.com/wiki/inspire/</loc>
+        <loc>https://xaoxuu.com/wiki/nexus/</loc>
         <lastmod>2021-02-24T01:59:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
@@ -190,7 +190,7 @@
     
     
     <url>
-        <loc>https://xaoxuu.com/wiki/nexus/</loc>
+        <loc>https://xaoxuu.com/wiki/inspire/</loc>
         <lastmod>2021-02-24T01:59:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
@@ -298,7 +298,7 @@
     
     
     <url>
-        <loc>https://xaoxuu.com/wiki/prohud/scene/</loc>
+        <loc>https://xaoxuu.com/wiki/prohud/custom/</loc>
         <lastmod>2021-02-18T02:20:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
@@ -307,7 +307,7 @@
     
     
     <url>
-        <loc>https://xaoxuu.com/wiki/prohud/custom/</loc>
+        <loc>https://xaoxuu.com/wiki/prohud/scene/</loc>
         <lastmod>2021-02-18T02:20:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
