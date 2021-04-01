@@ -1,0 +1,1 @@
+const darkmode={toggle:()=>{alert("toggle")}};
